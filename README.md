@@ -16,13 +16,13 @@ Theaters in the U.S. were further divided into the subcategories musicals, plays
 
 Knowing which season or month to launch a campaign may be key to success. This data shows that successful theater campaigns were launched during late Spring/early Summer (May-June), whereas failed campaigns were launched during the Winter (December).
 
-![outcomes based on launchdate](https://github.com/tarini-mi7/kickstarter-analysis/blob/main/resources/Outcomes%20based%20on%20Launch%20date.png)
+![outcomes based on launchdate](https://github.com/tarini-mi7/kickstarter-analysis/blob/main/resources/Theatre_Outcomes_vs_Launch.png.png)
 
 A comparison between the successful and failed campaigns under the subcategory play in the US demonstrate that campaigns with a budget of more than $10,000 were ineffective for Louise. The average goal among successful kickstarters was about $5,000.
 
 ![Table outcomes based on goal ](https://github.com/tarini-mi7/kickstarter-analysis/blob/main/resources/Outcomes%20based%20on%20goal%20table.png)
 
-![Table outcomes based on goal ](https://github.com/tarini-mi7/kickstarter-analysis/blob/main/resources/Outcome%20based%20on%20goals%20graph.png)
+![outcomes_vs_goal ](https://github.com/tarini-mi7/kickstarter-analysis/blob/main/resources/Outcomes_vs_%20Goals.png.png)
 
 
 # Conclusions:
