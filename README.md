@@ -29,20 +29,28 @@ A comparison between the successful and failed campaigns under the subcategory p
 
 ## Outcomes by launch date :
 * Kickstarters launched in May/June have been more successful. So Louise should launch her play "Fever" sometime in late Spring or early Summer.
-* Also, the campaign has not performed well in the winter. So Louise should avoid launching campaigns in the winter (October to December).
+* Also, the campaigns did not performed well in the winter. So Louise should avoid launching campaigns in the winter (October to December).
 
 ## Outcomes Based on Goals:
-* Goals greater than $10,000 is not successful so Louise should focus on goals that are less than $10,000.
+* Goals greater than $10,000 were not successful. So Louise should focus on goals that are less than $10,000.
 
 # Reasons for failure 
-* One reason Louise’s play fell short of her goal could be due to when she launched her campaign. She may have launched her campaign in a month other than May or June given that Kickstarter data showed that successful campaigns were launched during these two months. There were 111 successful campaigns launched in May and 100 successful campaigns launched in June.
-* Another reason could be due to length of her campaign. Some further analysis revealed that shorter Kickstarter are more successful. Campaign that are less than four weeks long (less than 30 days)  are more successful than campaigns that are four or more weeks long (more than 30 days). Among the 694 successful campaigns, 220 (31%) were less than a month and 303 (43%) were at least a month. Given that Louise’s play came close to its goal in a short amount of time, there may be another factor that may have led to her shortcomings. It is also important to define short time since there were several campaigns that were one week or two weeks long vs. three weeks or four weeks.
+* The campaigns launched in months other than May or June fell short of their goals. Data shows that there were 111 successful campaigns launched in May and 100 successful campaigns launched in June. So Louise should have launched more campaigns in May or june inorder to achieve her goal. 
+* Another reason could be the duration of her campaigns. Some further analysis revealed that shorter campaigns are more successful. Campaigns that are less than four weeks long (less than 30 days) are more successful than campaigns that are four or more weeks long (more than 30 days). Among the 694 successful campaigns, 220 (31%) were less than a month and 303 (43%) were at least a month. Given that Louise’ play came close to its goal in a short amount of time, there may be other factors that may have led to her shortcomings.
+
+# Other Graphs which can be included:
+* Graph on Campaigns duration(in days)
 
 ![campaigns based on duration ](https://github.com/tarini-mi7/kickstarter-analysis/blob/main/resources/Campaigns%20%20duration%20based%20on%20days.png)
 
 ![campaigns based on duration ](https://github.com/tarini-mi7/kickstarter-analysis/blob/main/resources/Campaigns%20%20duration%20based%20on%20days%20graph.png)
 
-The dataset included several Kickstarters that were still alive during analysis. This may be a limitation since that data could not be used to determine success or failure. It would be interesting to obtain additional information on the average donation in relation to launch date, and whether timing could have affected how much a backer was able to donate. Perhaps a donor is more generous during tax season rather than Christmas season. Displaying this information using a line graph could help visualize time periods in which backers are most generous. Another suggestion would be to include average donation in relation to length of Perhaps this could uncover a factor to why Louise could not reach her goal.
+# Other factors which can be analysed:
+* It would be interesting to obtain additional information on the Average donation in relation to launch date and compare whether timing could have affected how much a backer was able to donate. Perhaps a donor is more generous during tax season rather than Christmas season. displaying this information using a line graph could help visualize time periods in which backers are most generous. 
+* We could include average donation in relation to duration. Perhaps this could uncover more factors to explain why Louise could not reach her goal.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Limitations:
+* The dataset included several Kickstarters that are still alive during analysis. This may be a limitation since that data could not be used to determine success or failure. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 
